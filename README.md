@@ -5,4 +5,4 @@
 🌍 I am a trained **Full Stack Developer**, currently refreshing my back-end skills  
 ⚛️ I am also learning **React**  
 
-🔗 **View my portfolio here:** [www.michellelclement@gmail.com](mailto:michellelclement@gmail.com)
+🔗 **View my portfolio here:** [www.michelleclement.com](michelleclement.com)
